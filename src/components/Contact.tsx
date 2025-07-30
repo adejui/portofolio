@@ -50,7 +50,7 @@ const Contact = () => {
             title: "Location",
             content: "Yogyakarta, Indonesia",
             link: null,
-            description: "",
+            description: "aaaa",
         },
     ];
 
@@ -148,7 +148,7 @@ const Contact = () => {
                                                             <p className="text-gray-700 font-medium mb-1">
                                                                 {info.content}
                                                             </p>
-                                                            <p className="text-gray-500 text-sm">{info.description}</p>
+                                                            {/* <p className="text-gray-500 text-sm">{info.description}</p> */}
                                                         </div>
                                                     </div>
                                                 </div>
@@ -183,7 +183,7 @@ const Contact = () => {
                                                 <div className="flex-1">
                                                     <div className="font-semibold text-black">{social.name}</div>
                                                     <div className="text-gray-600 text-sm">{social.username}</div>
-                                                    <div className="text-gray-500 text-xs">{social.description}</div>
+                                                    {/* <div className="text-gray-500 text-xs">{social.description}</div> */}
                                                 </div>
                                                 <ExternalLink
                                                     size={16}
