@@ -113,7 +113,7 @@ const Projects = () => {
         {
             id: 8,
             title: "Fashion E-Commerce",
-            category: "UIUX desain",
+            category: "UIUX design",
             image: "./images/9.png",
             description:
                 "Designed a fashion store landing page that captures user interest from the first view. Focused on strong product visuals, clear call-to-action, and intuitive navigation.",
@@ -126,7 +126,7 @@ const Projects = () => {
         {
             id: 9,
             title: "Online Course Mobile App UI Design",
-            category: "UIUX desain",
+            category: "UIUX design",
             image: "./images/8.png",
             description:
                 "Designed a mobile app for easy and intuitive access to online learning content. Focused on user experience with simple navigation, clear progress tracking, and quick access to course videos. The UI is modern, engaging, and optimized for mobile-first users.",
@@ -139,7 +139,7 @@ const Projects = () => {
         {
             id: 10,
             title: "Handicraft Community Landing Page Design",
-            category: "UIUX desain",
+            category: "UIUX design",
             image: "./images/10.png",
             description:
                 "Designed a landing page for a handmade craft community that connects local artisans with craft enthusiasts. The design emphasizes visual showcases, a clear join call-to-action, and intuitive navigation.",
@@ -154,7 +154,7 @@ const Projects = () => {
     const categories = [
         { id: "all", name: "All Projects", icon: <Eye className="w-4 h-4" /> },
         { id: "web development", name: "Web Development", icon: <Code className="w-4 h-4" /> },
-        { id: "UIUX desain", name: "UIUX Desain", icon: <Palette className="w-4 h-4" /> },
+        { id: "UIUX design", name: "UIUX Design", icon: <Palette className="w-4 h-4" /> },
         // { id: 'backend', name: 'Backend', icon: <Database className="w-4 h-4" /> }
     ];
 
