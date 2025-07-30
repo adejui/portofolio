@@ -183,7 +183,7 @@ const Certificates = () => {
                                                     <p className="text-gray-600 font-medium mb-2">
                                                         {certificate.issuer}
                                                     </p>
-                                                    <p className="text-gray-600 text-sm mb-3">
+                                                    <p className="text-gray-600 text-sm mb-3 max-w-2xl">
                                                         {certificate.description}
                                                     </p>
 

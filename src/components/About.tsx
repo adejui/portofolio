@@ -220,7 +220,7 @@ const About = () => {
                                     <div className="text-blue-100 text-sm">Technologies</div>
                                 </div>
                                 <div className="text-center p-4 bg-black text-white rounded-xl">
-                                    <div className="text-2xl font-bold mb-1">7+</div>
+                                    <div className="text-2xl font-bold mb-1">10+</div>
                                     <div className="text-gray-300 text-sm">Projects Completed</div>
                                 </div>
                                 {/* <div className="text-center p-4 bg-white border border-gray-200 rounded-xl">
